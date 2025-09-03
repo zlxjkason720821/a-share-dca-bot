@@ -1,0 +1,1067 @@
+symbols:
+  600000.SH:
+    name: 浦发银行
+    news_keywords:
+    - 浦发银行
+    - '600000'
+    - sh600000
+    - 600000.SH
+    - 600000sh
+  600016.SH:
+    name: 民生银行
+    news_keywords:
+    - 民生银行
+    - '600016'
+    - sh600016
+    - 600016.SH
+    - 600016sh
+  600028.SH:
+    name: 中国石化
+    news_keywords:
+    - 中国石化
+    - '600028'
+    - sh600028
+    - 600028.SH
+    - 600028sh
+    - Sinopec
+  600031.SH:
+    name: 三一重工
+    news_keywords:
+    - 三一重工
+    - '600031'
+    - sh600031
+    - 600031.SH
+    - 600031sh
+  600036.SH:
+    name: 招商银行
+    news_keywords:
+    - 招商银行
+    - '600036'
+    - sh600036
+    - 600036.SH
+    - 600036sh
+  600048.SH:
+    name: 保利发展
+    news_keywords:
+    - 保利发展
+    - '600048'
+    - sh600048
+    - 600048.SH
+    - 600048sh
+  600050.SH:
+    name: 中国联通
+    news_keywords:
+    - 中国联通
+    - '600050'
+    - sh600050
+    - 600050.SH
+    - 600050sh
+  600104.SH:
+    name: 上汽集团
+    news_keywords:
+    - 上汽集团
+    - 上汽
+    - '600104'
+    - sh600104
+    - 600104.SH
+    - 600104sh
+  600111.SH:
+    name: 北方稀土
+    news_keywords:
+    - 北方稀土
+    - '600111'
+    - sh600111
+    - 600111.SH
+    - 600111sh
+  600118.SH:
+    name: 中国卫星
+    news_keywords:
+    - 中国卫星
+    - '600118'
+    - sh600118
+    - 600118.SH
+    - 600118sh
+  600153.SH:
+    name: 建发股份
+    news_keywords:
+    - 建发股份
+    - 建发
+    - '600153'
+    - sh600153
+    - 600153.SH
+    - 600153sh
+  600170.SH:
+    name: 上海建工
+    news_keywords:
+    - 上海建工
+    - '600170'
+    - sh600170
+    - 600170.SH
+    - 600170sh
+  600176.SH:
+    name: 中国巨石
+    news_keywords:
+    - 中国巨石
+    - '600176'
+    - sh600176
+    - 600176.SH
+    - 600176sh
+  600183.SH:
+    name: 生益科技
+    news_keywords:
+    - 生益科技
+    - '600183'
+    - sh600183
+    - 600183.SH
+    - 600183sh
+  600196.SH:
+    name: 复星医药
+    news_keywords:
+    - 复星医药
+    - '600196'
+    - sh600196
+    - 600196.SH
+    - 600196sh
+  600219.SH:
+    name: 南山铝业
+    news_keywords:
+    - 南山铝业
+    - '600219'
+    - sh600219
+    - 600219.SH
+    - 600219sh
+  600221.SH:
+    name: 海航控股
+    news_keywords:
+    - 海航控股
+    - '600221'
+    - sh600221
+    - 600221.SH
+    - 600221sh
+  600233.SH:
+    name: 圆通速递
+    news_keywords:
+    - 圆通速递
+    - '600233'
+    - sh600233
+    - 600233.SH
+    - 600233sh
+  600276.SH:
+    name: 恒瑞医药
+    news_keywords:
+    - 恒瑞医药
+    - '600276'
+    - sh600276
+    - 600276.SH
+    - 600276sh
+  600309.SH:
+    name: 万华化学
+    news_keywords:
+    - 万华化学
+    - '600309'
+    - sh600309
+    - 600309.SH
+    - 600309sh
+  600332.SH:
+    name: 白云山
+    news_keywords:
+    - 白云山
+    - '600332'
+    - sh600332
+    - 600332.SH
+    - 600332sh
+  600340.SH:
+    name: 华夏幸福
+    news_keywords:
+    - 华夏幸福
+    - '600340'
+    - sh600340
+    - 600340.SH
+    - 600340sh
+  600352.SH:
+    name: 浙江龙盛
+    news_keywords:
+    - 浙江龙盛
+    - '600352'
+    - sh600352
+    - 600352.SH
+    - 600352sh
+  600362.SH:
+    name: 江西铜业
+    news_keywords:
+    - 江西铜业
+    - '600362'
+    - sh600362
+    - 600362.SH
+    - 600362sh
+  600369.SH:
+    name: 西南证券
+    news_keywords:
+    - 西南证券
+    - '600369'
+    - sh600369
+    - 600369.SH
+    - 600369sh
+  600372.SH:
+    name: 中航电子
+    news_keywords:
+    - 中航电子
+    - '600372'
+    - sh600372
+    - 600372.SH
+    - 600372sh
+  600383.SH:
+    name: 金地集团
+    news_keywords:
+    - 金地集团
+    - 金地
+    - '600383'
+    - sh600383
+    - 600383.SH
+    - 600383sh
+  600406.SH:
+    name: 国电南瑞
+    news_keywords:
+    - 国电南瑞
+    - '600406'
+    - sh600406
+    - 600406.SH
+    - 600406sh
+  600418.SH:
+    name: 江淮汽车
+    news_keywords:
+    - 江淮汽车
+    - '600418'
+    - sh600418
+    - 600418.SH
+    - 600418sh
+  600436.SH:
+    name: 片仔癀
+    news_keywords:
+    - 片仔癀
+    - '600436'
+    - sh600436
+    - 600436.SH
+    - 600436sh
+  600438.SH:
+    name: 通威股份
+    news_keywords:
+    - 通威股份
+    - 通威
+    - '600438'
+    - sh600438
+    - 600438.SH
+    - 600438sh
+  600482.SH:
+    name: 中国动力
+    news_keywords:
+    - 中国动力
+    - '600482'
+    - sh600482
+    - 600482.SH
+    - 600482sh
+  600489.SH:
+    name: 中金黄金
+    news_keywords:
+    - 中金黄金
+    - '600489'
+    - sh600489
+    - 600489.SH
+    - 600489sh
+  600519.SH:
+    name: 贵州茅台
+    news_keywords:
+    - 贵州茅台
+    - '600519'
+    - sh600519
+    - 600519.SH
+    - 600519sh
+    - Moutai
+  600522.SH:
+    name: 中天科技
+    news_keywords:
+    - 中天科技
+    - '600522'
+    - sh600522
+    - 600522.SH
+    - 600522sh
+  600547.SH:
+    name: 山东黄金
+    news_keywords:
+    - 山东黄金
+    - '600547'
+    - sh600547
+    - 600547.SH
+    - 600547sh
+  600570.SH:
+    name: 恒生电子
+    news_keywords:
+    - 恒生电子
+    - '600570'
+    - sh600570
+    - 600570.SH
+    - 600570sh
+  600583.SH:
+    name: 海油工程
+    news_keywords:
+    - 海油工程
+    - '600583'
+    - sh600583
+    - 600583.SH
+    - 600583sh
+  600585.SH:
+    name: 海螺水泥
+    news_keywords:
+    - 海螺水泥
+    - '600585'
+    - sh600585
+    - 600585.SH
+    - 600585sh
+  600588.SH:
+    name: 用友网络
+    news_keywords:
+    - 用友网络
+    - '600588'
+    - sh600588
+    - 600588.SH
+    - 600588sh
+  600690.SH:
+    name: 海尔智家
+    news_keywords:
+    - 海尔智家
+    - '600690'
+    - sh600690
+    - 600690.SH
+    - 600690sh
+  600703.SH:
+    name: 三安光电
+    news_keywords:
+    - 三安光电
+    - '600703'
+    - sh600703
+    - 600703.SH
+    - 600703sh
+  600705.SH:
+    name: 中航产融
+    news_keywords:
+    - 中航产融
+    - '600705'
+    - sh600705
+    - 600705.SH
+    - 600705sh
+  600741.SH:
+    name: 华域汽车
+    news_keywords:
+    - 华域汽车
+    - '600741'
+    - sh600741
+    - 600741.SH
+    - 600741sh
+  600745.SH:
+    name: 闻泰科技
+    news_keywords:
+    - 闻泰科技
+    - '600745'
+    - sh600745
+    - 600745.SH
+    - 600745sh
+  600760.SH:
+    name: 中航沈飞
+    news_keywords:
+    - 中航沈飞
+    - '600760'
+    - sh600760
+    - 600760.SH
+    - 600760sh
+  600795.SH:
+    name: 国电电力
+    news_keywords:
+    - 国电电力
+    - '600795'
+    - sh600795
+    - 600795.SH
+    - 600795sh
+  600804.SH:
+    name: 鹏博士
+    news_keywords:
+    - 鹏博士
+    - '600804'
+    - sh600804
+    - 600804.SH
+    - 600804sh
+  600809.SH:
+    name: 山西汾酒
+    news_keywords:
+    - 山西汾酒
+    - '600809'
+    - sh600809
+    - 600809.SH
+    - 600809sh
+  600816.SH:
+    name: 安信信托
+    news_keywords:
+    - 安信信托
+    - '600816'
+    - sh600816
+    - 600816.SH
+    - 600816sh
+  600837.SH:
+    name: 海通证券
+    news_keywords:
+    - 海通证券
+    - '600837'
+    - sh600837
+    - 600837.SH
+    - 600837sh
+  600871.SH:
+    name: 石化油服
+    news_keywords:
+    - 石化油服
+    - '600871'
+    - sh600871
+    - 600871.SH
+    - 600871sh
+  600886.SH:
+    name: 国投电力
+    news_keywords:
+    - 国投电力
+    - '600886'
+    - sh600886
+    - 600886.SH
+    - 600886sh
+  600887.SH:
+    name: 伊利股份
+    news_keywords:
+    - 伊利股份
+    - 伊利
+    - '600887'
+    - sh600887
+    - 600887.SH
+    - 600887sh
+  600893.SH:
+    name: 航发动力
+    news_keywords:
+    - 航发动力
+    - '600893'
+    - sh600893
+    - 600893.SH
+    - 600893sh
+  600900.SH:
+    name: 长江电力
+    news_keywords:
+    - 长江电力
+    - '600900'
+    - sh600900
+    - 600900.SH
+    - 600900sh
+  600919.SH:
+    name: 江苏银行
+    news_keywords:
+    - 江苏银行
+    - '600919'
+    - sh600919
+    - 600919.SH
+    - 600919sh
+  600926.SH:
+    name: 杭州银行
+    news_keywords:
+    - 杭州银行
+    - '600926'
+    - sh600926
+    - 600926.SH
+    - 600926sh
+  600941.SH:
+    name: 中国移动
+    news_keywords:
+    - 中国移动
+    - '600941'
+    - sh600941
+    - 600941.SH
+    - 600941sh
+  600958.SH:
+    name: 东方证券
+    news_keywords:
+    - 东方证券
+    - '600958'
+    - sh600958
+    - 600958.SH
+    - 600958sh
+  600999.SH:
+    name: 招商证券
+    news_keywords:
+    - 招商证券
+    - '600999'
+    - sh600999
+    - 600999.SH
+    - 600999sh
+  601006.SH:
+    name: 大秦铁路
+    news_keywords:
+    - 大秦铁路
+    - '601006'
+    - sh601006
+    - 601006.SH
+    - 601006sh
+  601012.SH:
+    name: 隆基绿能
+    news_keywords:
+    - 隆基绿能
+    - '601012'
+    - sh601012
+    - 601012.SH
+    - 601012sh
+  601066.SH:
+    name: 中信建投
+    news_keywords:
+    - 中信建投
+    - '601066'
+    - sh601066
+    - 601066.SH
+    - 601066sh
+  601077.SH:
+    name: 渝农商行
+    news_keywords:
+    - 渝农商行
+    - '601077'
+    - sh601077
+    - 601077.SH
+    - 601077sh
+  601088.SH:
+    name: 中国神华
+    news_keywords:
+    - 中国神华
+    - '601088'
+    - sh601088
+    - 601088.SH
+    - 601088sh
+  601100.SH:
+    name: 恒立液压
+    news_keywords:
+    - 恒立液压
+    - '601100'
+    - sh601100
+    - 601100.SH
+    - 601100sh
+  601111.SH:
+    name: 中国国航
+    news_keywords:
+    - 中国国航
+    - '601111'
+    - sh601111
+    - 601111.SH
+    - 601111sh
+  601117.SH:
+    name: 中国化学
+    news_keywords:
+    - 中国化学
+    - '601117'
+    - sh601117
+    - 601117.SH
+    - 601117sh
+  601138.SH:
+    name: 工业富联
+    news_keywords:
+    - 工业富联
+    - '601138'
+    - sh601138
+    - 601138.SH
+    - 601138sh
+  601155.SH:
+    name: 新城控股
+    news_keywords:
+    - 新城控股
+    - '601155'
+    - sh601155
+    - 601155.SH
+    - 601155sh
+  601162.SH:
+    name: 天风证券
+    news_keywords:
+    - 天风证券
+    - '601162'
+    - sh601162
+    - 601162.SH
+    - 601162sh
+  601166.SH:
+    name: 兴业银行
+    news_keywords:
+    - 兴业银行
+    - '601166'
+    - sh601166
+    - 601166.SH
+    - 601166sh
+  601169.SH:
+    name: 北京银行
+    news_keywords:
+    - 北京银行
+    - '601169'
+    - sh601169
+    - 601169.SH
+    - 601169sh
+  601186.SH:
+    name: 中国铁建
+    news_keywords:
+    - 中国铁建
+    - '601186'
+    - sh601186
+    - 601186.SH
+    - 601186sh
+  601198.SH:
+    name: 东兴证券
+    news_keywords:
+    - 东兴证券
+    - '601198'
+    - sh601198
+    - 601198.SH
+    - 601198sh
+  601211.SH:
+    name: 国泰君安
+    news_keywords:
+    - 国泰君安
+    - '601211'
+    - sh601211
+    - 601211.SH
+    - 601211sh
+  601216.SH:
+    name: 君正集团
+    news_keywords:
+    - 君正集团
+    - 君正
+    - '601216'
+    - sh601216
+    - 601216.SH
+    - 601216sh
+  601225.SH:
+    name: 陕西煤业
+    news_keywords:
+    - 陕西煤业
+    - '601225'
+    - sh601225
+    - 601225.SH
+    - 601225sh
+  601229.SH:
+    name: 上海银行
+    news_keywords:
+    - 上海银行
+    - '601229'
+    - sh601229
+    - 601229.SH
+    - 601229sh
+  601231.SH:
+    name: 环旭电子
+    news_keywords:
+    - 环旭电子
+    - '601231'
+    - sh601231
+    - 601231.SH
+    - 601231sh
+  601236.SH:
+    name: 红塔证券
+    news_keywords:
+    - 红塔证券
+    - '601236'
+    - sh601236
+    - 601236.SH
+    - 601236sh
+  601238.SH:
+    name: 广汽集团
+    news_keywords:
+    - 广汽集团
+    - 广汽
+    - '601238'
+    - sh601238
+    - 601238.SH
+    - 601238sh
+  601288.SH:
+    name: 农业银行
+    news_keywords:
+    - 农业银行
+    - '601288'
+    - sh601288
+    - 601288.SH
+    - 601288sh
+    - ABC
+  601318.SH:
+    name: 中国平安
+    news_keywords:
+    - 中国平安
+    - '601318'
+    - sh601318
+    - 601318.SH
+    - 601318sh
+    - Ping An
+  601319.SH:
+    name: 中国人保
+    news_keywords:
+    - 中国人保
+    - '601319'
+    - sh601319
+    - 601319.SH
+    - 601319sh
+  601336.SH:
+    name: 新华保险
+    news_keywords:
+    - 新华保险
+    - '601336'
+    - sh601336
+    - 601336.SH
+    - 601336sh
+  601360.SH:
+    name: 三六零
+    news_keywords:
+    - 三六零
+    - '601360'
+    - sh601360
+    - 601360.SH
+    - 601360sh
+  601377.SH:
+    name: 兴业证券
+    news_keywords:
+    - 兴业证券
+    - '601377'
+    - sh601377
+    - 601377.SH
+    - 601377sh
+  601390.SH:
+    name: 中国中铁
+    news_keywords:
+    - 中国中铁
+    - '601390'
+    - sh601390
+    - 601390.SH
+    - 601390sh
+  601398.SH:
+    name: 工商银行
+    news_keywords:
+    - 工商银行
+    - '601398'
+    - sh601398
+    - 601398.SH
+    - 601398sh
+    - ICBC
+  601555.SH:
+    name: 东吴证券
+    news_keywords:
+    - 东吴证券
+    - '601555'
+    - sh601555
+    - 601555.SH
+    - 601555sh
+  601600.SH:
+    name: 中国铝业
+    news_keywords:
+    - 中国铝业
+    - '601600'
+    - sh601600
+    - 601600.SH
+    - 601600sh
+  601601.SH:
+    name: 中国太保
+    news_keywords:
+    - 中国太保
+    - '601601'
+    - sh601601
+    - 601601.SH
+    - 601601sh
+  601607.SH:
+    name: 上海医药
+    news_keywords:
+    - 上海医药
+    - '601607'
+    - sh601607
+    - 601607.SH
+    - 601607sh
+  601628.SH:
+    name: 中国人寿
+    news_keywords:
+    - 中国人寿
+    - '601628'
+    - sh601628
+    - 601628.SH
+    - 601628sh
+  601633.SH:
+    name: 长城汽车
+    news_keywords:
+    - 长城汽车
+    - '601633'
+    - sh601633
+    - 601633.SH
+    - 601633sh
+  601668.SH:
+    name: 中国建筑
+    news_keywords:
+    - 中国建筑
+    - '601668'
+    - sh601668
+    - 601668.SH
+    - 601668sh
+    - CSCEC
+  601688.SH:
+    name: 华泰证券
+    news_keywords:
+    - 华泰证券
+    - '601688'
+    - sh601688
+    - 601688.SH
+    - 601688sh
+  601698.SH:
+    name: 中国卫通
+    news_keywords:
+    - 中国卫通
+    - '601698'
+    - sh601698
+    - 601698.SH
+    - 601698sh
+  601727.SH:
+    name: 上海电气
+    news_keywords:
+    - 上海电气
+    - '601727'
+    - sh601727
+    - 601727.SH
+    - 601727sh
+  601766.SH:
+    name: 中国中车
+    news_keywords:
+    - 中国中车
+    - '601766'
+    - sh601766
+    - 601766.SH
+    - 601766sh
+  601788.SH:
+    name: 光大证券
+    news_keywords:
+    - 光大证券
+    - '601788'
+    - sh601788
+    - 601788.SH
+    - 601788sh
+  601800.SH:
+    name: 中国交建
+    news_keywords:
+    - 中国交建
+    - '601800'
+    - sh601800
+    - 601800.SH
+    - 601800sh
+  601816.SH:
+    name: 京沪高铁
+    news_keywords:
+    - 京沪高铁
+    - '601816'
+    - sh601816
+    - 601816.SH
+    - 601816sh
+  601828.SH:
+    name: 美凯龙
+    news_keywords:
+    - 美凯龙
+    - '601828'
+    - sh601828
+    - 601828.SH
+    - 601828sh
+  601838.SH:
+    name: 成都银行
+    news_keywords:
+    - 成都银行
+    - '601838'
+    - sh601838
+    - 601838.SH
+    - 601838sh
+  601857.SH:
+    name: 中国石油
+    news_keywords:
+    - 中国石油
+    - '601857'
+    - sh601857
+    - 601857.SH
+    - 601857sh
+    - PetroChina
+  601877.SH:
+    name: 正泰电器
+    news_keywords:
+    - 正泰电器
+    - '601877'
+    - sh601877
+    - 601877.SH
+    - 601877sh
+  601888.SH:
+    name: 中国中免
+    news_keywords:
+    - 中国中免
+    - '601888'
+    - sh601888
+    - 601888.SH
+    - 601888sh
+  601899.SH:
+    name: 紫金矿业
+    news_keywords:
+    - 紫金矿业
+    - '601899'
+    - sh601899
+    - 601899.SH
+    - 601899sh
+  601901.SH:
+    name: 方正证券
+    news_keywords:
+    - 方正证券
+    - '601901'
+    - sh601901
+    - 601901.SH
+    - 601901sh
+  601919.SH:
+    name: 中远海控
+    news_keywords:
+    - 中远海控
+    - '601919'
+    - sh601919
+    - 601919.SH
+    - 601919sh
+  601939.SH:
+    name: 建设银行
+    news_keywords:
+    - 建设银行
+    - '601939'
+    - sh601939
+    - 601939.SH
+    - 601939sh
+    - CCB
+  601985.SH:
+    name: 中国核电
+    news_keywords:
+    - 中国核电
+    - '601985'
+    - sh601985
+    - 601985.SH
+    - 601985sh
+  601988.SH:
+    name: 中国银行
+    news_keywords:
+    - 中国银行
+    - '601988'
+    - sh601988
+    - 601988.SH
+    - 601988sh
+    - BOC
+  601989.SH:
+    name: 中国重工
+    news_keywords:
+    - 中国重工
+    - '601989'
+    - sh601989
+    - 601989.SH
+    - 601989sh
+  601998.SH:
+    name: 中信银行
+    news_keywords:
+    - 中信银行
+    - '601998'
+    - sh601998
+    - 601998.SH
+    - 601998sh
+  603259.SH:
+    name: 药明康德
+    news_keywords:
+    - 药明康德
+    - '603259'
+    - sh603259
+    - 603259.SH
+    - 603259sh
+  603288.SH:
+    name: 海天味业
+    news_keywords:
+    - 海天味业
+    - '603288'
+    - sh603288
+    - 603288.SH
+    - 603288sh
+  603501.SH:
+    name: 韦尔股份
+    news_keywords:
+    - 韦尔股份
+    - 韦尔
+    - '603501'
+    - sh603501
+    - 603501.SH
+    - 603501sh
+  603799.SH:
+    name: 华友钴业
+    news_keywords:
+    - 华友钴业
+    - '603799'
+    - sh603799
+    - 603799.SH
+    - 603799sh
+
+news:
+  lookback_days: 7
+  rss:
+    enabled: true
+    timeout_sec: 10
+    retries: 2
+    backoff: 1.8
+  html_scrape:
+    enabled: true
+    sources:
+     # 东方财富
+      - kind: bing
+        url: "https://www.bing.com/news/search?q={q}+site%3Aeastmoney.com&setlang=zh-cn&FORM=HDRSC6"
+
+      # 新浪财经
+      - kind: bing
+        url: "https://www.bing.com/news/search?q={q}+site%3Asina.com.cn&setlang=zh-cn&FORM=HDRSC6"
+
+      # 同花顺
+      - kind: bing
+        url: "https://www.bing.com/news/search?q={q}+site%3A10jqka.com.cn&setlang=zh-cn&FORM=HDRSC6"
+
+      # 网易财经
+      - kind: bing
+        url: "https://www.bing.com/news/search?q={q}+site%3Amoney.163.com&setlang=zh-cn&FORM=HDRSC6"
+
+      # 腾讯财经
+      - kind: bing
+        url: "https://www.bing.com/news/search?q={q}+site%3Afinance.qq.com&setlang=zh-cn&FORM=HDRSC6"
+
+      # 搜狐财经
+      - kind: bing
+        url: "https://www.bing.com/news/search?q={q}+site%3Abusiness.sohu.com&setlang=zh-cn&FORM=HDRSC6"
+
+      # 雪球
+      - kind: bing
+        url: "https://www.bing.com/news/search?q={q}+site%3Axueqiu.com&setlang=zh-cn&FORM=HDRSC6"
+
+      # 默认兜底（所有中文新闻）
+      - kind: bing
+        url: "https://www.bing.com/news/search?q={q}&setlang=zh-cn&FORM=HDRSC6"
+
+
+
+weights:
+  price_trend: 0.25
+  earnings_trend: 0.25
+  news_sentiment: 0.25
+  model_score: 0.25
+
+thresholds:
+  block_threshold: 65
+  warn_threshold: 55
+  pass_threshold: 45
+
+# 限制新闻回溯天数（默认7）
+news:
+  lookback_days: 7
+
+# 财报量化的权重（不填用默认）
+earnings_metrics:
+  weights:
+    net_profit_yoy: 0.35
+    revenue_yoy: 0.2
+    gross_margin: 0.2
+    roe: 0.2
+    debt_ratio: 0.05
+
+# 全局新闻情绪词（中文/英文都可）
+negative_keywords: [暴跌, 亏损, 被调查, 业绩预警, 减持]
+positive_keywords: [回购, 超预期, 扩产, 创新高, 提价]
+

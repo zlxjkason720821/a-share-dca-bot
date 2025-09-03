@@ -1,0 +1,20 @@
+accounts:
+  manual_a_share:
+    broker: manual
+    params:
+      output_dir: ./logs/weekly_budget
+plans:
+  generated_run:
+    account: manual_a_share
+    currency: CNY
+    legs:
+    - symbol: 601318.SH
+      qty: null
+      notional: 1923
+      order_type: market
+      lot_size: 100
+    - symbol: 300573.SZ
+      qty: null
+      notional: 577
+      order_type: market
+      lot_size: 100

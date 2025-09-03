@@ -1,0 +1,17 @@
+total_budget: 20000
+periods: 1
+lot_size: 100
+
+selection:
+  mode: topN
+  top_n: 5           # ← 改成 5
+  allocation: rank   # rank | score
+
+fees:
+  commission_bps_buy: 3
+  commission_bps_sell: 3
+  stamp_duty_bps_sell: 5
+  slippage_bps: 5
+
+model_to_ret:
+  clf_threshold: 0.03
