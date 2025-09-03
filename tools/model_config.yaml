@@ -1,0 +1,152 @@
+# 训练配置（可按需修改）
+data:
+  min_rows: 200
+cv:
+  train_len: 120
+  test_len: 60
+  step: 30
+task:
+  type: binary
+  horizon: 10
+  threshold: 0.02   # 原来是 0.05，调低
+
+labels:
+  quantile_fallback: 0.7   # 原来 0.8，可调低
+
+symbols:
+  600000.SH: { name: 浦发银行 }
+  600016.SH: { name: 民生银行 }
+  600028.SH: { name: 中国石化 }
+  600031.SH: { name: 三一重工 }
+  600036.SH: { name: 招商银行 }
+  600048.SH: { name: 保利发展 }
+  600050.SH: { name: 中国联通 }
+  600104.SH: { name: 上汽集团 }
+  600111.SH: { name: 北方稀土 }
+  600118.SH: { name: 中国卫星 }
+  600153.SH: { name: 建发股份 }
+  600170.SH: { name: 上海建工 }
+  600176.SH: { name: 中国巨石 }
+  600183.SH: { name: 生益科技 }
+  600196.SH: { name: 复星医药 }
+  600219.SH: { name: 南山铝业 }
+  600221.SH: { name: 海航控股 }
+  600233.SH: { name: 圆通速递 }
+  600276.SH: { name: 恒瑞医药 }
+  600309.SH: { name: 万华化学 }
+  600332.SH: { name: 白云山 }
+  600340.SH: { name: 华夏幸福 }
+  600352.SH: { name: 浙江龙盛 }
+  600362.SH: { name: 江西铜业 }
+  600369.SH: { name: 西南证券 }
+  600372.SH: { name: 中航电子 }
+  600383.SH: { name: 金地集团 }
+  600406.SH: { name: 国电南瑞 }
+  600418.SH: { name: 江淮汽车 }
+  600436.SH: { name: 片仔癀 }
+  600438.SH: { name: 通威股份 }
+  600482.SH: { name: 中国动力 }
+  600489.SH: { name: 中金黄金 }
+  600519.SH: { name: 贵州茅台 }
+  600522.SH: { name: 中天科技 }
+  600547.SH: { name: 山东黄金 }
+  600570.SH: { name: 恒生电子 }
+  600583.SH: { name: 海油工程 }
+  600585.SH: { name: 海螺水泥 }
+  600588.SH: { name: 用友网络 }
+  600690.SH: { name: 海尔智家 }
+  600703.SH: { name: 三安光电 }
+  600705.SH: { name: 中航产融 }
+  600741.SH: { name: 华域汽车 }
+  600745.SH: { name: 闻泰科技 }
+  600760.SH: { name: 中航沈飞 }
+  600795.SH: { name: 国电电力 }
+  600804.SH: { name: 鹏博士 }
+  600809.SH: { name: 山西汾酒 }
+  600816.SH: { name: 安信信托 }
+  600837.SH: { name: 海通证券 }
+  600871.SH: { name: 石化油服 }
+  600886.SH: { name: 国投电力 }
+  600887.SH: { name: 伊利股份 }
+  600893.SH: { name: 航发动力 }
+  600900.SH: { name: 长江电力 }
+  600919.SH: { name: 江苏银行 }
+  600926.SH: { name: 杭州银行 }
+  600941.SH: { name: 中国移动 }
+  600958.SH: { name: 东方证券 }
+  600999.SH: { name: 招商证券 }
+  601006.SH: { name: 大秦铁路 }
+  601012.SH: { name: 隆基绿能 }
+  601066.SH: { name: 中信建投 }
+  601077.SH: { name: 渝农商行 }
+  601088.SH: { name: 中国神华 }
+  601100.SH: { name: 恒立液压 }
+  601111.SH: { name: 中国国航 }
+  601117.SH: { name: 中国化学 }
+  601138.SH: { name: 工业富联 }
+  601155.SH: { name: 新城控股 }
+  601162.SH: { name: 天风证券 }
+  601166.SH: { name: 兴业银行 }
+  601169.SH: { name: 北京银行 }
+  601186.SH: { name: 中国铁建 }
+  601198.SH: { name: 东兴证券 }
+  601211.SH: { name: 国泰君安 }
+  601216.SH: { name: 君正集团 }
+  601225.SH: { name: 陕西煤业 }
+  601229.SH: { name: 上海银行 }
+  601231.SH: { name: 环旭电子 }
+  601236.SH: { name: 红塔证券 }
+  601238.SH: { name: 广汽集团 }
+  601288.SH: { name: 农业银行 }
+  601318.SH: { name: 中国平安 }
+  601319.SH: { name: 中国人保 }
+  601336.SH: { name: 新华保险 }
+  601360.SH: { name: 三六零 }
+  601377.SH: { name: 兴业证券 }
+  601390.SH: { name: 中国中铁 }
+  601398.SH: { name: 工商银行 }
+  601555.SH: { name: 东吴证券 }
+  601600.SH: { name: 中国铝业 }
+  601601.SH: { name: 中国太保 }
+  601607.SH: { name: 上海医药 }
+  601628.SH: { name: 中国人寿 }
+  601633.SH: { name: 长城汽车 }
+  601668.SH: { name: 中国建筑 }
+  601688.SH: { name: 华泰证券 }
+  601698.SH: { name: 中国卫通 }
+  601727.SH: { name: 上海电气 }
+  601766.SH: { name: 中国中车 }
+  601788.SH: { name: 光大证券 }
+  601800.SH: { name: 中国交建 }
+  601816.SH: { name: 京沪高铁 }
+  601828.SH: { name: 美凯龙 }
+  601838.SH: { name: 成都银行 }
+  601857.SH: { name: 中国石油 }
+  601877.SH: { name: 正泰电器 }
+  601888.SH: { name: 中国中免 }
+  601899.SH: { name: 紫金矿业 }
+  601901.SH: { name: 方正证券 }
+  601919.SH: { name: 中远海控 }
+  601939.SH: { name: 建设银行 }
+  601985.SH: { name: 中国核电 }
+  601988.SH: { name: 中国银行 }
+  601989.SH: { name: 中国重工 }
+  601998.SH: { name: 中信银行 }
+  603259.SH: { name: 药明康德 }
+  603288.SH: { name: 海天味业 }
+  603501.SH: { name: 韦尔股份 }
+  603799.SH: { name: 华友钴业 }
+
+task:
+  type: "binary"       # "binary" or "reg"
+  horizon: 10          # 未来K日
+  threshold: 0.05      # 二分类阈值
+
+cv:
+  train_len: 600       # 每折训练长度（交易日）
+  test_len: 120
+  step: 60
+
+output:
+  dir: "models"
+  name: "a_stock"
