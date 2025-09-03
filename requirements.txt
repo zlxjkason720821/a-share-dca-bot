@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+requests
+beautifulsoup4
+lxml
+feedparser
+openpyxl
+pyyaml
+tqdm
