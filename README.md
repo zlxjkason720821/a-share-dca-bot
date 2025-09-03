@@ -81,4 +81,67 @@ logs/weekly_budget/Report_YYYYMMDD.xlsx
 
 手续费计算（默认东方财富券商标准）
 
+1. 股票池（symbols.txt）
+600111.SH
+600183.SH
+600176.SH
+601138.SH
 
+
+👉 想换目标（symbols， signals——config， model——signals 都需要改对应不同的。其中symbol负责对接财报抓取列表，signal对应市场数据和权重比如check——signal和orchestrator的运行参数，而model——signals只参与模型训练，budget不涉及选股只有预算和比例修改）
+
+2. 信号配置（signals_config.yaml）
+symbols:
+  600111.SH: {}
+  600183.SH: {}
+  600176.SH: {}
+  601138.SH: {}
+
+news:
+  lookback_days: 7
+  rss:
+    enabled: true
+    timeout_sec: 10
+    retries: 2
+    backoff: 1.8
+  html_scrape:
+    enabled: true
+    sources:
+      - kind: bing
+        url: "https://www.bing.com/news/search?q={q}+site%3Aeastmoney.com&setlang=zh-cn&FORM=HDRSC6"
+      - kind: bing
+        url: "https://www.bing.com/news/search?q={q}+site%3Asina.com.cn&setlang=zh-cn&FORM=HDRSC6"
+
+
+👉 想调整新闻来源，就修改 sources。
+
+3. 模型信号配置（tools/model_signals.yaml）
+weights:
+  price_trend: 0.25
+  earnings_trend: 0.25
+  news_sentiment: 0.25
+  model_score: 0.25
+
+
+👉 想调整模型权重比例，修改这里即可。
+
+4. 预算（budget.yaml）
+budget: 20000
+topn: 5
+broker_fee: 0.0003   # 单边千三手续费
+
+
+👉 想换预算或买入股票数量，直接改这里。
+
+🌐 数据源说明
+
+行情数据：run——fetch.bat（写入 data/ 文件夹）
+
+财报数据：python cninfo_earnings_to_csv.py
+
+国外：推荐注册东方财富 API + akshare
+
+国内：直接用 akshare
+
+默认支持 fetch_cninfo.py 抓取巨潮
+新闻数据：RSS（Google News）+ HTML 抓取（Bing + 东方财富/新浪/网易/腾讯财经等）
